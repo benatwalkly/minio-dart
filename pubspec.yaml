@@ -15,7 +15,7 @@ dependencies:
   xml: ^6.1.0
   buffer: ^1.1.0
   intl:
-  mime: ^1.0.0
+  mime: ^2.0.0
   path: ^1.8.0
 
 dev_dependencies:
